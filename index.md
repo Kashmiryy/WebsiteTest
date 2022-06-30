@@ -12,7 +12,7 @@
 <body>
     <p>
         <h3>Click for google</h3> 
-        <a href="https://google.com/"><img src="https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg", width="50%" alt="Blue man"></a>
+        <a href="https://google.com/"><img src="https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg", width="50%" alt="Blue man"</a>
     </p>
     
     <p>
